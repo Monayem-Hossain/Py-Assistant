@@ -11,7 +11,7 @@ Update this script by adding questions and answers as many as you want.
 + ```apt upgrade```
 + ```pkg install git```
 + ```pkg install python```
-+ ```git clone https://github.com/Devil-King-Monayem/Py-Assistant```
++ ```git clone https://github.com/Monayem-Hossain/Py-Assistant```
 + ```cd Py-Assistant```
 + ```python Alex.py```
 
